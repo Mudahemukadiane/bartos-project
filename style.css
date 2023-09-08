@@ -1,0 +1,261 @@
+.body{
+    background-color: rgb(47, 116, 93);
+
+}
+.one{
+    color: beige;
+    font-size: 70px;
+    text-align: center;
+    padding:200px;
+}
+/*...............page1...........*/
+
+body{
+    background-color: black;
+}
+.logo{
+    padding:13px 0px 0px 0px;
+    color: rgb(246, 247, 244);
+    border-radius:50px;
+    
+}
+.two{
+    display: flex;
+      padding: 0px 90px 0px 90px;
+      color: white;
+      padding-left: 9rem;
+      
+}
+.two ul{
+display: flex;
+padding-left:120px;
+color: rgb(247, 236, 236);
+
+
+}
+.two ul li{
+  padding:30px 30px;
+  text-decoration: none;
+  list-style: none;
+  font-weight: bold;
+}
+.two ul li:hover
+{
+  background-color: black;
+  border-style:none;
+  color: blanchedalmond;
+  border-radius:60px;
+
+}
+.two a{
+  text-decoration: none;
+  color: rgb(252, 252, 252);
+
+}
+.two button{
+    height: 40px;
+    width:100px;
+    background: rgb(238, 252, 44);
+    border-radius:10px;
+    border-style: none;
+    font-weight: bold;
+}
+
+.contact-button{
+    padding:35px;
+    padding-left:290px;
+}
+.contact-button :hover{
+    background-color: black;
+    border-style: solid;
+    color: blanchedalmond;
+
+}
+.about-button button {
+    height: 40px;
+    font-weight: bold;
+    width:100px;
+    color: rgb(10, 10, 9);
+    border-radius:10px;
+    border-style: none;
+}
+.about-button :hover{
+    background-color: black;
+    border-style: solid;
+    color: blanchedalmond;
+}
+.container{
+    height: 500px;
+    width: 100px;
+}
+.left{
+    height: 500px;
+    width: 450px;
+    padding-top:-150px;
+    margin-right: 40rem;
+    position: absolute;
+    marquee-direction:left;
+
+;
+}
+.right{
+    marquee-direction:left;
+    height: 500px;
+    width: 450px;
+    padding-top:-150px;
+    margin-left: 45rem;
+    position: absolute;
+}
+.footer{
+    background-color: rgb(51, 55, 59);
+    color: lightyellow;
+    height: 50px;
+    text-align: center;
+    margin: 0px;
+    padding: 1rem;
+}
+.p-footer{
+    text-align: center;
+    padding:1rem;
+    height: 50px;
+    margin:0;
+}
+/*................about............*/
+.container-about{
+    display: flex;
+    width: 1000px;
+}
+.twoo{
+    color: lightyellow;
+   text-align: center;
+    width: 250px;
+    padding-left:5rem;
+}
+.div3{
+    color: rgb(209, 191, 169);
+    text-align: left;
+    width:380px;
+    padding-left: 50rem;
+    margin-top: 90;
+    position: absolute;
+}
+.three{
+    color: rgb(209, 191, 169);
+    text-align: right;
+    width: 380px;
+    padding-left: 2rem;
+    
+}
+.h1-page1{
+    color: rgb(255, 251, 0);
+}
+/*.........servises.....*/
+
+.threee{
+    color: rgb(209, 191, 169);
+   padding-left: 9rem;
+   font-size: 20px;
+   font-weight: bold;
+font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 400px;
+   padding:30px;
+   
+}
+.h1-service{
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(255, 251, 0);
+    width: 300px;
+    
+}
+.two-service{
+    width: 600px;
+    
+}
+.cont-service{
+    width: 900px;
+    padding-left: 30px;
+}
+.p-service{
+    color: azure;
+}
+.footer-service{
+    padding-bottom:60px;
+    background-color: rgb(51, 55, 59);
+    color: lightyellow;
+    height: 50px;
+    text-align: center;
+    margin: -80px;
+    padding: 1rem;
+}
+.two-form{
+    padding:5rem;
+    color: rgb(184, 183, 179);
+    font-size: 12px;
+    padding-left: 5rem;
+}
+.three-form{
+    font-size: 14px;
+    color: rgb(219, 210, 210);
+padding: 5rem;
+}
+.h1-form{
+  font-size: 36px;
+  
+}
+.table {
+    
+    color: cornsilk;
+    width: 300px;
+    padding: 30px;
+    display: flex;
+}
+.cont-about{
+    width: 800px;
+}
+.h-about{
+    color: rgb(229, 255, 0);
+    font-size: 65px;
+
+}
+.p-about{
+    color: cornsilk;
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.two-about{
+    width: 400px;
+    padding:30px;
+    padding-left: 9rem;
+}
+.three-about{
+    text-align: left;
+    width: 400px;
+    padding-left: 5rem;
+}
+/*.....................contact.............*/
+.container-contact {
+    display: flex;
+   
+    padding-left: 65px;
+}
+.three-contact{
+
+color: cornsilk;
+padding: 70px;
+ }
+ .two-form
+ {
+    padding-left:26rem;
+    color: rgb(201, 193, 163) ;
+    font-size: 12px;
+    font-weight: bold;
+
+ }
+ .h1-form{
+     color: rgb(243, 229, 34);
+     display: flex;
+ }
+ .h1-contact{
+     color:  rgb(243, 229, 34);
+ }
